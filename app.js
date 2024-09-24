@@ -6,7 +6,7 @@ const root=ReactDOM.createRoot(parent);
 
 
 const Msg=()=>{
-  return <h1>Hello From Raect JS</h1>
+  return <h1>Hello From Raect JS i am new </h1>
 
 }
 
